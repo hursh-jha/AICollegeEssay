@@ -5,6 +5,6 @@ The ipynb file is a jupiter notebook example of the code running, and the py fil
 <br>
 With google colab the ipynb file can be viewed seperately and run in and of itself
 <br>
-The model trains on college essay for 20 cycle and  generates the output based on seed text
+The model trains on college essay for 30 cycles and  generates the output based on seed text
 <br>
 You can change the seed text to see how AI predicts the output for different seed text
